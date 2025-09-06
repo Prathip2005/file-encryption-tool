@@ -1,1 +1,1 @@
-hiiiiii
+🔒 Encryption is the process of converting readable data (plaintext) into an unreadable format (ciphertext) to protect it from unauthorized access. It ensures that only individuals with the correct decryption key can access the original information. Encryption plays a vital role in cybersecurity, securing sensitive files, online communications, banking transactions, and personal data. In this project, encryption is applied to files so that even if the data is stolen or intercepted, it remains inaccessible without the correct decryption key.
