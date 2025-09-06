@@ -31,19 +31,10 @@ cryptography (Fernet AES) – Encryption library
 
 ⚙️ Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/file-encryption-tool.git
-cd file-encryption-tool
-
-
 Install dependencies:
 
 pip install cryptography
-
-
 Run the program:
-
 python mini.py
 
 🎮 Usage
@@ -57,10 +48,6 @@ Click Encrypt File → An encrypted .enc file is created.
 To decrypt, select the .enc file and click Decrypt File.
 
 Decrypted files will have _decrypted added to their names.
-
-📸 Screenshots (Optional)
-
-(Add screenshots of your GUI here)
 
 🔮 Future Enhancements
 
@@ -78,6 +65,4 @@ Developed by Your Name
 📧 Email: prathipsiva55@gamil.com
 
 🔗 LinkedIn https://www.linkedin.com/in/prathips/
- | GitHub
 
-Would you like me to also create a requirements.txt file for you, so you can directly upload it along with your project?
